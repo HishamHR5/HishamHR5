@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Hisham 👋
 
-<!--
-**HishamHR5/HishamHR5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with 3+ years of experience designing and building secure, enterprise-grade web applications. My core expertise is in full-stack development with Angular and Node.js.
 
-Here are some ideas to get you started:
+I'm currently expanding my passion for security by pursuing an M.Tech in Cyber Security and Digital Forensics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Let's Connect
+
+Portfolio: [Your Portfolio Website](https://hisham.codes/)
+
+Email: [hisham6official@gmail.com](mailto:hisham6official@gmail.com)
+
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hisham-rs/)
+
+🌱 What I'm Up To
+
+🚀 Building and maintaining high-performance web apps.
+
+🎓 Studying for my M.Tech in Cyber Security and Digital Forensics at IIIT Kottayam.
+
+
+
+
+📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HishamHR5&show_icons=true&theme=radical" alt="Hisham's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HishamHR5&layout=compact&theme=radical" alt="Hisham's Top Languages" />
+</p>
